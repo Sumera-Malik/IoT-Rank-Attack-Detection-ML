@@ -53,3 +53,6 @@ Project Objectives
 | KMeans               | 0.90     | 0.85      | 0.90   | 0.88     |
 
 ---
+## 📥 Dataset Access
+
+Due to size/restrictions, the dataset is not hosted here.
